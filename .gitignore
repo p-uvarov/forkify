@@ -1,6 +1,9 @@
 #VSCode
 .vscode
 
+#API key
+/src/js/config.js
+
 # dependencies
 /node_modules
 /.pnp
